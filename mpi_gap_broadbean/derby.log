@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Wed Mar 27 12:11:16 UTC 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-0169-bf0f-c6ee-000005673310 
+on database directory C:\Temp\GTS_DB_BROADBEAN\michaelpage.co.uk with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/SrikanthMalkaRDP/.m2/repository/org/apache/derby/derby/10.11.1.1/derby-10.11.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_202-b08
+user.dir=C:\Users\SrikanthMalkaRDP\git\mpi_gap_broadbean
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Mar 27 12:11:55 UTC 2019: Shutting down Derby engine
+----------------------------------------------------------------
+Wed Mar 27 12:11:55 UTC 2019:
+Shutting down instance a816c00e-0169-bf0f-c6ee-000005673310 on database directory C:\Temp\GTS_DB_BROADBEAN\michaelpage.co.uk with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+----------------------------------------------------------------
